@@ -8,3 +8,6 @@ In this module, we'll host the static content _(html, js, css, media content, et
 
 Before we start storing our mysfits in S3, let's set up AWS Cloud9 for you. Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.  
 
+## Architecture Diagram
+
+![Architecture Diagram](images/architectureDiag.png)
