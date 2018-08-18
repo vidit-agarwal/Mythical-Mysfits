@@ -11,3 +11,8 @@ Before we start storing our mysfits in S3, let's set up AWS Cloud9 for you. Clou
 ## Architecture Diagram
 
 ![Architecture Diagram](images/architectureDiag.png)
+
+## Services Used
+
+~ AWS Cloud9
+~ Amazon Simple Storage Service (S3)
